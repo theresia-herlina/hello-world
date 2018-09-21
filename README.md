@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+Let me introduce myself
+my name is herlina
